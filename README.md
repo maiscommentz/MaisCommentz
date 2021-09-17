@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Filipe - @maiscommentz
+
+Hey ! I'm Filipe, a young french developer.
+
+##
 
 <!--
 **MaisCommentz/MaisCommentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

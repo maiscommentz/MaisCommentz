@@ -1,6 +1,6 @@
-# Filipe - @maiscommentz
+# 🎈 Filipe Casimiro - @maiscommentz
 
-Hey ! I'm Filipe, a young french developer.
+Hey ! I'm Filipe, a young and french developer.
 
 ##
 

@@ -7,6 +7,6 @@ Hey 👋, I'm Filipe, a young and swiss developer.
 📚 | Currently studying at EMF Fribourg<br>
 💻 | Java, VueJS<br>
 📫 | How to reach me:<br>
-  - Website: [maiscommentz.ch](http://maiscommentz.ch/)
-  - Twitter: [@maiscommentz](https://twitter.com/maiscommentz)
-  - Mail: [pro.maiscommentz@gmail.com](mailto:pro.maiscommentz@gmail.com)
+  ---- Website: [maiscommentz.ch](http://maiscommentz.ch/)
+  ---- Twitter: [@maiscommentz](https://twitter.com/maiscommentz)
+  ---- Mail: [pro.maiscommentz@gmail.com](mailto:pro.maiscommentz@gmail.com)

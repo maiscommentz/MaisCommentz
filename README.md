@@ -1,6 +1,6 @@
 ## 🎈 Filipe Casimiro - @maiscommentz
 
-Hey ! I'm Filipe, a young and swiss developer.
+Hey 👋, I'm Filipe, a young and swiss developer.
 
 🎂 | 18 years old<br>
 🌐 | Swiss, Portuguese and French<br>

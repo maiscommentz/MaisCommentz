@@ -2,7 +2,7 @@
 
 Hey 👋, I'm Filipe, a young Swiss developer.
 
-🎂 | 18 years old<br>
+🎂 | 19 years old<br>
 🌐 | Swiss, Portuguese and French<br>
 📚 | Currently studying at EMF Fribourg<br>
 🛠️ | Java, VueJS, Drupal<br>

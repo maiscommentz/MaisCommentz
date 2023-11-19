@@ -1,12 +1,12 @@
-## 🎈 Filipe Casimiro - @maiscommentz
+# Filipe Casimiro Ferreira - @maiscommentz
+## About me
+Hey 👋, I'm Filipe.
 
-Hey 👋, I'm Filipe, a young developer.
+🌱 | Currently in Engineering School<br>
+💬 | Swiss, Portuguese and French<br>
+🪁 | Traveling, football and gym<br>
+📫 | Reach me at [pro.maiscommentz@gmail.com](mailto:pro.maiscommentz@gmail.com)<br>
 
-🎂 | 19 years old<br>
-🌐 | Swiss, Portuguese and French<br>
-📚 | Currently studying at EMF Fribourg<br>
-🛠️ | Java, VueJS, Drupal<br>
-📫 | How to reach me:<br>
-  ---- Website: [maiscommentz.ch](http://maiscommentz.ch/)<br>
-  ---- Twitter: [@maiscommentz](https://twitter.com/maiscommentz)<br>
-  ---- Mail: [pro.maiscommentz@gmail.com](mailto:pro.maiscommentz@gmail.com)<br>
+## Languages and tools
+
+🛠️ | Java, Vue.js, PHP, React and still learning...<br>

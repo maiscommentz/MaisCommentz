@@ -10,3 +10,4 @@ Hey 👋, I'm Filipe.
 ## Languages and tools
 
 🛠️ | Java, Vue.js, PHP, React and still learning...<br>
+🧰 | Git, Docker, VS Code, Figma, Apidog
